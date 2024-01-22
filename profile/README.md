@@ -1,6 +1,17 @@
 # Kippap - High Quality Lecture Videos
 
+<p align="center">
+  <img src="path/to/your/logo.png" alt="Kippap Logo" width="200"/>
+</p>
+
 Welcome to Kippap's repository for high-quality lecture videos! Reviewing for the Civil Engineering Board Exam has never been more convenient. Our videos provide comprehensive discussions on theories, principles, and problems commonly found in board exams.
+
+## Socials
+
+- Website: [https://www.kippap.com](https://www.kippap.com)
+- YouTube: [https://www.youtube.com/@KippapEducation](https://www.youtube.com/@KippapEducation)
+- Facebook: [https://www.facebook.com/kippapcereview](https://www.facebook.com/kippapcereview)
+- LinkedIn: [https://www.linkedin.com/company/kippap](https://www.linkedin.com/company/kippap)
 
 ## Table of Contents
 
@@ -21,3 +32,10 @@ At Kippap, we understand the importance of accessible and effective education. T
 - **Comprehensive Coverage:** In-depth discussions on theories, principles, and exam problems.
 - **Repeatable Lectures:** Watch lectures at your own pace for better retention.
 
+## Getting Started
+
+To get started, follow these simple steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kippap-Tech/YourRepoName.git
