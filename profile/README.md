@@ -1,7 +1,7 @@
 # Kippap - High Quality Lecture Videos
 
 <p align="center">
-  <img src="path/to/your/logo.png" alt="Kippap Logo" width="200"/>
+  <img profile="120077652_350128059675267_2076296109382955845_n.png" alt="Kippap Logo" width="200"/>
 </p>
 
 Welcome to Kippap's repository for high-quality lecture videos! Reviewing for the Civil Engineering Board Exam has never been more convenient. Our videos provide comprehensive discussions on theories, principles, and problems commonly found in board exams.
